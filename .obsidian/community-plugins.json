@@ -8,5 +8,6 @@
   "quickadd",
   "obsidian-minimal-settings",
   "dataview",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-gpt"
 ]

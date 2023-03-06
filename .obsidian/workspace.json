@@ -132,8 +132,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "bf784f09e7268444",
+            "type": "leaf",
+            "state": {
+              "type": "gptModelSettings",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
