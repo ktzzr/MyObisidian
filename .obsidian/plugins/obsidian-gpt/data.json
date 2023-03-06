@@ -50,12 +50,12 @@
       }
     }
   },
-  "tagCompletions": false,
+  "tagCompletions": true,
   "tagCompletionsHandlerTags": {
     "openingTag": "<Completion>",
     "closingTag": "</Completion>"
   },
-  "tagPrompts": false,
+  "tagPrompts": true,
   "tagPromptsHandlerTags": {
     "openingTag": "<Prompt>",
     "closingTag": "</Prompt>"
