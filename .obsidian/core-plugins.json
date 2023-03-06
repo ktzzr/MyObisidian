@@ -4,6 +4,7 @@
   "switcher",
   "graph",
   "backlink",
+  "canvas",
   "outgoing-link",
   "page-preview",
   "daily-notes",
@@ -15,7 +16,6 @@
   "zk-prefixer",
   "word-count",
   "slides",
-  "open-with-default-app",
   "workspaces",
   "file-recovery"
 ]
