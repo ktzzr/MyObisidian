@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "ManageObisidian-GameDesign",
   "legacyEditor": false,
-  "livePreview": false
+  "livePreview": false,
+  "spellcheck": false
 }
