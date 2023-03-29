@@ -8824,19 +8824,19 @@ var utils;
   }
   utils2.getImageSize = getImageSize;
   async function createDailyNoteCheck(date) {
-    var _a, _b, _c, _d, _e, _f, _g;
+    var _a;
     let file;
-    if ((_d = (_c = (_b = (_a = window.app.plugins) == null ? void 0 : _a.getPlugin("periodic-notes")) == null ? void 0 : _b.calendarSetManager) == null ? void 0 : _c.getActiveConfig("day")) == null ? void 0 : _d.enabled) {
-      const periodicNotes = window.app.plugins.getPlugin("periodic-notes");
-      file = await periodicNotes.createPeriodicNote("day", date);
-      return file;
+    switch (UseDailyOrPeriodic) {
+      case "Daily":
+        file = await createDailyNote_1(date);
+        break;
+      case "Periodic":
+        file = await ((_a = window.app.plugins.getPlugin("periodic-notes")) == null ? void 0 : _a.createDailyNote("day", date));
+        break;
+      default:
+        file = await createDailyNote_1(date);
+        break;
     }
-    if ((_g = (_f = (_e = window.app.plugins) == null ? void 0 : _e.getPlugin("periodic-notes")) == null ? void 0 : _f.settings) == null ? void 0 : _g.daily) {
-      const periodicNotes = window.app.plugins.getPlugin("periodic-notes");
-      file = await periodicNotes.createPeriodicNote("day", date);
-      return file;
-    }
-    file = await createDailyNote_1(date);
     return file;
   }
   utils2.createDailyNoteCheck = createDailyNoteCheck;
