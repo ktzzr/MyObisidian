@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-to-flomo",
+	"name": "Obsidian to Flomo",
+	"version": "0.1.1",
+	"minAppVersion": "0.15.0",
+	"description": "Quickly share content to Flomo.",
+	"author": "Xiaoyu Li",
+	"authorUrl": "https://www.metalyoung.com/",
+	"isDesktopOnly": false
+}
