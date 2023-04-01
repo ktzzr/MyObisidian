@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "c44f6b1e5c786af1",
+  "active": "5916234c2b52a6e1",
   "lastOpenFiles": [
     "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
     "TA百人计划/Lesson1--渲染流水线.md",
