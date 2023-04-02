@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
+                "file": "Atlas/Dataviews/模板汇总.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
+                "file": "Atlas/Dataviews/模板汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
+                "file": "Atlas/Dataviews/模板汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 120.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,11 +162,14 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "5916234c2b52a6e1",
+  "active": "c44f6b1e5c786af1",
   "lastOpenFiles": [
+    "Atlas/Dataviews/微信读书清单.md",
+    "Atlas/Dataviews/∑ 本库Dataview汇总.md",
+    "Atlas/Dataviews/» 本库常用的dataview工作流.md",
+    "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
     "Atlas/MOCs/∑ MOCs.md",
     "Atlas/MOCs/Library.md",
-    "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
     "Extras/Media/Pasted Image 20220320191102_767.png",
     "Extras/Media/Pasted Image 20220320191818_566.png",
     "Extras/Media/Pasted Image 20220320202815_760.png",
