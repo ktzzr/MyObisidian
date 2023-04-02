@@ -1,0 +1,3 @@
+[submodule "MyObisidian"]
+	path = MyObisidian
+	url = git@github.com:ktzzr/MyObisidian.git
