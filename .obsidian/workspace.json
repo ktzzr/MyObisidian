@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/MOCs/∑ MOCs.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/MOCs/∑ MOCs.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/MOCs/∑ MOCs.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,24 +164,26 @@
   },
   "active": "c44f6b1e5c786af1",
   "lastOpenFiles": [
+    "MyObisidian/Atlas/Dataviews/∑ 本库Dataview汇总.md",
+    "MyObisidian/Atlas/Dataviews/» 本库常用的dataview工作流.md",
+    "ManageObisidian-GameDesign/TMTDmonster1.png",
+    "ManageObisidian-GameDesign/TMTDcharacter2.png",
+    "ManageObisidian-GameDesign/TMTDboss2.png",
+    "ManageObisidian-GameDesign/TMTDboss1.png",
+    "Extras/Draws/README 2022-08-21.svg",
+    "Extras/Draws/excalibrain.svg",
+    "Atlas/MOCs/∑ MOCs.md",
     "Atlas/MOCs/Library.md",
     "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
-    "Atlas/MOCs/∑ MOCs.md",
     "Extras/Media/Pasted Image 20220320191102_767.png",
     "Extras/Media/Pasted Image 20220320191818_566.png",
     "Extras/Media/Pasted Image 20220320202815_760.png",
     "Extras/Media/Pasted Image 20220320203200_352.png",
-    "Extras/Media/Pasted Image 20220320190917_764.png",
-    "Extras/Media/Pasted Image 20220320190802_762.png",
     "Extras/About Extras.md",
     "Extras/Index for Extras.md",
     "README.md",
     "TA百人计划/Lesson1--渲染流水线.md",
     "Excalidraw/test.md",
-    "Test.md",
-    "Attachment/ManageObisidian/TMTDskill4.png",
-    "Attachment/ManageObisidian/TMTDmonster2.png",
-    "Attachment/ManageObisidian/TMTDboss2.png",
-    "Attachment/ManageObisidian/TMTDboss1.png"
+    "Test.md"
   ]
 }
