@@ -11,10 +11,8 @@
             "id": "c44f6b1e5c786af1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Extras/Draws/数字时代如何更好地工作与生活 - 图.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -91,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Draws/数字时代如何更好地工作与生活 - 图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Draws/数字时代如何更好地工作与生活 - 图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,6 +150,8 @@
   "active": "c44f6b1e5c786af1",
   "lastOpenFiles": [
     "Extras/Draws/∑ excalidraw 白板创建入口.md",
+    "Extras/Draws/数字时代如何更好地工作与生活 - 图.md",
+    "Extras/Draws/数字时代如何更好地工作与生活 - 图.svg",
     "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
     "Atlas/Dataviews/∑ 本库Dataview汇总.md",
     "Atlas/About Atlas.md",
@@ -184,7 +182,6 @@
     "Test.md",
     "Attachment/ManageObisidian/TMTDskill4.png",
     "Attachment/ManageObisidian/TMTDmonster2.png",
-    "Attachment/ManageObisidian/TMTDboss2.png",
-    "Attachment/ManageObisidian/TMTDboss1.png"
+    "Attachment/ManageObisidian/TMTDboss2.png"
   ]
 }
