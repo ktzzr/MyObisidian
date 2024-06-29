@@ -11,9 +11,12 @@
             "id": "c44f6b1e5c786af1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ManageObisidian-GameDesign/TMTDboss1.png"
+                "file": "Atlas/Dataviews/» 本库常用的dataview工作流.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ManageObisidian-GameDesign/TMTDboss1.png",
+                "file": "Atlas/Dataviews/» 本库常用的dataview工作流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ManageObisidian-GameDesign/TMTDboss1.png",
+                "file": "Atlas/Dataviews/» 本库常用的dataview工作流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,8 +154,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "5916234c2b52a6e1",
+  "active": "c44f6b1e5c786af1",
   "lastOpenFiles": [
+    "Extras/Index for Extras.md",
+    "Extras/Templates/其他/mermaid模板/mermaid class diagram 模板.md",
+    "Extras/About Extras.md",
+    "ManageObisidian-GameDesign/TMTDboss1.png",
+    "AboutTheGarden.md",
     "ManageObisidian-GameDesign/TMTDboss2.png",
     "ManageObisidian-GameDesign/TMTDcharacter1.png",
     "ManageObisidian-GameDesign/TMTDcharacter2.png",
@@ -162,10 +170,6 @@
     "ManageObisidian-GameDesign/TMTDmonster2.png",
     "ManageObisidian-GameDesign/TMTDskill1.png",
     "ManageObisidian-GameDesign/TMTDskill2.png",
-    "ManageObisidian-GameDesign/TMTDskill3.png",
-    "ManageObisidian-GameDesign/TMTDskill4.png",
-    "Extras/Index for Extras.md",
-    "AboutTheGarden.md",
     "README.md",
     "Atlas/MOCs/∑ MOCs.md",
     "Atlas/Dataviews/∑ 本库Dataview汇总.md",
@@ -185,7 +189,6 @@
     "Atlas/TOCs/§ TOCs.md",
     "Atlas/Dataviews/模板汇总.md",
     "Atlas/MOCs/Library.md",
-    "Extras/About Extras.md",
     "TA百人计划/Lesson1--渲染流水线.md",
     "Excalidraw/test.md",
     "Test.md"

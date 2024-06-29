@@ -3,5 +3,6 @@
   "attachmentFolderPath": "ManageObisidian-GameDesign",
   "legacyEditor": false,
   "livePreview": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "promptDelete": false
 }
