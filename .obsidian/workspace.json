@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "策划知识库/Books/妙趣横生的游戏制作之旅.md",
+                "file": "策划知识库/Books/岩田先生.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "策划知识库/Books/妙趣横生的游戏制作之旅.md",
+                "file": "策划知识库/Books/岩田先生.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "策划知识库/Books/妙趣横生的游戏制作之旅.md",
+                "file": "策划知识库/Books/岩田先生.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,10 +170,10 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "aee7e10a3f316ce0",
+  "active": "5916234c2b52a6e1",
   "lastOpenFiles": [
-    "策划知识库/Books/游戏感.md",
     "策划知识库/Books/妙趣横生的游戏制作之旅.md",
+    "策划知识库/Books/游戏感.md",
     "策划知识库/Books/体验引擎.md",
     "策划知识库/Books/游戏设计艺术.md",
     "策划知识库/Books/游戏设计梦工厂.md",
