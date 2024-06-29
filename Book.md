@@ -1,18 +1,2 @@
-```
----
-tag: 📚Book
-title: "{{title}}"
-subtitle: "{{subtitle}}"
-author: [{{author}}]
-category: [{{category}}]
-publisher: {{publisher}}
-publish: {{publishDate}}
-total: {{totalPage}}
-isbn: {{isbn10}} {{isbn13}}
-cover: {{coverUrl}}
-localCover: {{localCoverImage}}
-status: unread
-created: {{DATE:YYYY-MM-DD HH:mm:ss}}
-updated: {{DATE:YYYY-MM-DD HH:mm:ss}}
----
-```
+```dataview
+--- title: {{title}}  author: {{author}}  category: {{category}}  publisher: {{publisher}}  publishdate: {{publishDate}}  pages: {{totalPage}}  cover: {{coverUrl}}  rating:  date-read:  status:  --- # 👩‍🔧 where did i know this book # 🧒 target audience # ⍞ 3 quote ``` dataview query ``` Table  ("![|100](" + cover + ")") as Cover, author as Author, category as genre, rating  From "books"  Where contains(status, "complete") ``` css ``` --- cssClasses: cards, cards-cover, cards-2-3,table-max, cards-cols-4 banner: "![[https://p1-e6eeae93.imageflux.jp/c!/a=2,w=800,h=800,f=webp:auto/spaceyui/7cd844bfcabf11dfd368.jpg]]" --- ```
