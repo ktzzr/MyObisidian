@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "策划知识库/Books/书库索引.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -184,11 +184,13 @@
   },
   "active": "ca4ca266060d66da",
   "lastOpenFiles": [
+    "策划知识库/Books/Panel BD-132.md",
     "Templates/Book.md",
-    "未命名.md",
     "策划知识库/Books/书库索引.md",
-    "README.md",
     "策划知识库/Books/游戏设计艺术 - Jesse Schell.md",
+    "未命名 1",
+    "未命名.md",
+    "README.md",
     "策划知识库/Books/Section 123 Civilian Nuclear Cooperation Agreements - United States Congress Senate Committee on Foreign Relations.md",
     "海边的卡夫卡 - 村上春树.md",
     "策划知识库/策划经验总结/任务设计.md",
@@ -202,7 +204,6 @@
     "PiceBed",
     "策划知识库",
     "策划知识库/策划经验总结",
-    "PiceBed/PicBed-Godot",
     "PiceBed/PicBed-GameDesign/TMTD/TMTDboss1.png",
     "ACCESS 笔记组织法.md",
     "Atlas/TOCs/§ TOCs.md",
@@ -228,7 +229,6 @@
     "Atlas/About Atlas.md",
     "Atlas/Index for Atlases.md",
     "Atlas/Dataviews/LATEST.md",
-    "Atlas/Dataviews/Index for 已发布文章和草稿.md",
-    "Atlas/Dataviews/微信读书清单.md"
+    "Atlas/Dataviews/Index for 已发布文章和草稿.md"
   ]
 }
