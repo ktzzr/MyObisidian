@@ -152,11 +152,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "94ad6f2f67bb4f95",
+  "active": "5916234c2b52a6e1",
   "lastOpenFiles": [
+    "未命名",
     "策划知识库/Books/游戏设计艺术.md",
     "策划知识库/Books/故事.md",
     "策划知识库/Books/对白.md",
@@ -171,7 +173,6 @@
     "未命名 1",
     "策划知识库/Books/Section 123 Civilian Nuclear Cooperation Agreements - United States Congress Senate Committee on Foreign Relations.md",
     "海边的卡夫卡 - 村上春树.md",
-    "未命名",
     "Templates",
     "策划知识库/Books",
     "GameDev/Unreal",
@@ -201,7 +202,6 @@
     "PiceBed/PicBed-GameDesign/TMTD/TMTDboss2.png",
     "PiceBed/PicBed-GameDesign/TMTD/TMTDcharacter1.png",
     "PiceBed/PicBed-GameDesign/TMTD/TMTDcharacter2.png",
-    "Atlas/Dataviews/∑ 本库Dataview汇总.md",
-    "Atlas/About Atlas.md"
+    "Atlas/Dataviews/∑ 本库Dataview汇总.md"
   ]
 }
