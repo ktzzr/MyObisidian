@@ -53,7 +53,7 @@
               "type": "markdown",
               "state": {
                 "file": "策划知识库/Books/书库索引.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -197,9 +197,10 @@
   },
   "active": "654d9ff8d2e7f453",
   "lastOpenFiles": [
-    "策划知识库/Books/Panel BD-132.md",
-    "策划知识库/Books/书库索引.md",
     "策划知识库/Books/游戏设计艺术.md",
+    "策划知识库/Books/书库索引.md",
+    "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
+    "策划知识库/Books/Panel BD-132.md",
     "Templates/Book.md",
     "Templates/CSS.md",
     "未命名.md",
@@ -211,7 +212,6 @@
     "未命名",
     "Templates",
     "策划知识库/Books",
-    "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
     "GameDev/Unreal",
     "GameDev/Unity",
     "GameDev",
