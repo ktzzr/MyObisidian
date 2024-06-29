@@ -11,8 +11,13 @@
             "id": "c44f6b1e5c786af1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Dataviews/∑ 本库Dataview汇总.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -68,6 +73,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "7384d1676685c036",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -89,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atlas/Dataviews/∑ 本库Dataview汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Atlas/Dataviews/∑ 本库Dataview汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,10 +164,11 @@
   },
   "active": "c44f6b1e5c786af1",
   "lastOpenFiles": [
+    "Atlas/Dataviews/» 本库常用的dataview工作流.md",
+    "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
     "Extras/Draws/∑ excalidraw 白板创建入口.md",
     "Extras/Draws/数字时代如何更好地工作与生活 - 图.md",
     "Extras/Draws/数字时代如何更好地工作与生活 - 图.svg",
-    "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
     "Atlas/Dataviews/∑ 本库Dataview汇总.md",
     "Atlas/About Atlas.md",
     "Atlas/Index for Atlases.md",
@@ -163,7 +179,6 @@
     "Atlas/Dataviews/EXTERNAL.md",
     "Atlas/Dataviews/Daily notes汇总.md",
     "Atlas/Dataviews/本库的宏观统计数据.md",
-    "Atlas/Dataviews/» 本库常用的dataview工作流.md",
     "Atlas/TOCs/§ TOCs.md",
     "Atlas/Dataviews/模板汇总.md",
     "Atlas/MOCs/∑ MOCs.md",
