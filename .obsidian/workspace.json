@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "策划知识库/Books/1.书库索引.md",
+                "file": "WE/百鬼夜行长篇系列：涂佛之宴·宴之始末（全集）-京极夏彦.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "策划知识库/Books/1.书库索引.md",
+                "file": "WE/百鬼夜行长篇系列：涂佛之宴·宴之始末（全集）-京极夏彦.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "策划知识库/Books/1.书库索引.md",
+                "file": "WE/百鬼夜行长篇系列：涂佛之宴·宴之始末（全集）-京极夏彦.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,13 +156,18 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "5916234c2b52a6e1",
+  "active": "94ad6f2f67bb4f95",
   "lastOpenFiles": [
-    "未命名",
+    "WE/Java核心技术第10版（套装共2册）-凯S.霍斯特曼 霍斯特曼 科内尔.md",
+    "WE/百鬼夜行长篇系列：涂佛之宴·宴之始末（全集）-京极夏彦.md",
+    "策划知识库/Books/1.书库索引.md",
+    "WE/游戏剧本怎么写-佐佐木智广.md",
+    "WE/自私的基因（40周年增订精装版）-理查德·道金斯.md",
+    "WE/Java从初学到精通-辛立伟 张帆等编著.md",
+    "WE",
     "策划知识库/Books/游戏设计艺术.md",
     "策划知识库/Books/故事.md",
     "策划知识库/Books/对白.md",
-    "策划知识库/Books/1.书库索引.md",
     "Templates/Book.md",
     "策划知识库/策划经验总结/任务设计.md",
     "README.md",
@@ -196,12 +201,8 @@
     "Atlas/MOCs/∑ MOCs.md",
     "Atlas/Dataviews/MOC文件汇总.md",
     "Atlas/Dataviews/» 本库常用的dataview工作流.md",
-    "Extras/Templates/其他/mermaid模板/mermaid class diagram 模板.md",
-    "Extras/About Extras.md",
-    "AboutTheGarden.md",
     "PiceBed/PicBed-GameDesign/TMTD/TMTDboss2.png",
     "PiceBed/PicBed-GameDesign/TMTD/TMTDcharacter1.png",
-    "PiceBed/PicBed-GameDesign/TMTD/TMTDcharacter2.png",
-    "Atlas/Dataviews/∑ 本库Dataview汇总.md"
+    "PiceBed/PicBed-GameDesign/TMTD/TMTDcharacter2.png"
   ]
 }
