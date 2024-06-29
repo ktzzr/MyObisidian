@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "策划知识库/Books/1.书库索引.md",
-                "mode": "preview",
+                "file": "策划知识库/Books/Writing for Games.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "策划知识库/Books/1.书库索引.md",
+                "file": "策划知识库/Books/Writing for Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "策划知识库/Books/1.书库索引.md",
+                "file": "策划知识库/Books/Writing for Games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,11 +170,13 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "5916234c2b52a6e1",
+  "active": "aee7e10a3f316ce0",
   "lastOpenFiles": [
+    "策划知识库/Books/游戏剧本怎么写.md",
+    "策划知识库/Books/Writing for Games.md",
+    "策划知识库/Books/1.书库索引.md",
     "策划知识库/Books/Unity Shader入门精要.md",
     "策划知识库/策划经验总结/任务设计.md",
-    "策划知识库/Books/1.书库索引.md",
     "策划知识库/Books/游戏设计艺术.md",
     "策划知识库/Books/创作的基因.md",
     "策划知识库/Books/岩田先生.md",
@@ -185,7 +187,6 @@
     "策划知识库/Books/通关!游戏设计之道.md",
     "策划知识库/Books/游戏编程模式.md",
     "策划知识库/Books/游戏设计的236个技巧.md",
-    "策划知识库/Books/游戏剧本怎么写.md",
     "策划知识库/Books/大师谈游戏设计.md",
     "策划知识库/Books/故事.md",
     "策划知识库/Books/对白.md",
@@ -198,7 +199,6 @@
     "Templates/Book.md",
     "README.md",
     "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
-    "策划知识库/Books/Panel BD-132.md",
     "未命名 1",
     "Templates",
     "策划知识库/Books",
