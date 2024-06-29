@@ -1,4 +1,3 @@
-```
 ---
 title: {{title}}
 subtitle: {{subtitle}}
@@ -9,4 +8,3 @@ total: {{totalPage}}
 cover: {{coverUrl}}
 status: complete
 ---
-```
