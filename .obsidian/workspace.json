@@ -11,8 +11,13 @@
             "id": "c44f6b1e5c786af1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }

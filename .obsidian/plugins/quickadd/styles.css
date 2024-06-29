@@ -154,6 +154,7 @@
   justify-content: flex-end;
   align-content: center;
   margin-bottom: 1em;
+  gap: 4px;
 }
 .yesNoPromptButtonContainer {
   display: flex;
@@ -163,6 +164,11 @@
 }
 .yesNoPromptParagraph {
   text-align: center;
+}
+.suggestion-container {
+  background-color: var(--modal-background);
+  z-index: 100000;
+  overflow-y: auto;
 }
 .qaFileSuggestionItem {
   display: flex;
