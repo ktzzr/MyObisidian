@@ -1,6 +1,5 @@
 ```
 ---
-tag: 📚Book
 title: {{title}}
 subtitle: {{subtitle}}
 author: [{{author}}]

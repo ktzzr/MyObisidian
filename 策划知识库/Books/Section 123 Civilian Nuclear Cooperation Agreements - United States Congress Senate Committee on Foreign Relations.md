@@ -1,6 +1,5 @@
 ```
 ---
-tag: 📚Book
 title: Section 123: Civilian Nuclear Cooperation Agreements
 subtitle: Hearing Before the Committee on Foreign Relations, United States Senate, One Hundred Thirteenth Congress, Second Session, January 30, 2014
 author: [United States. Congress. Senate. Committee on Foreign Relations]
