@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "策划知识库/Books/体验引擎.md",
+                "file": "策划知识库/Books/游戏感.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "策划知识库/Books/体验引擎.md",
+                "file": "策划知识库/Books/游戏感.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "策划知识库/Books/体验引擎.md",
+                "file": "策划知识库/Books/游戏感.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,8 +172,9 @@
   },
   "active": "aee7e10a3f316ce0",
   "lastOpenFiles": [
-    "策划知识库/Books/游戏设计艺术.md",
     "策划知识库/Books/体验引擎.md",
+    "策划知识库/Books/游戏感.md",
+    "策划知识库/Books/游戏设计艺术.md",
     "策划知识库/Books/游戏设计梦工厂.md",
     "策划知识库/Books/Unity Shader入门精要.md",
     "策划知识库/Books/1.书库索引.md",
@@ -199,7 +200,6 @@
     "Templates/CSS.md",
     "未命名 1",
     "策划知识库/Books/Section 123 Civilian Nuclear Cooperation Agreements - United States Congress Senate Committee on Foreign Relations.md",
-    "海边的卡夫卡 - 村上春树.md",
     "Templates",
     "策划知识库/Books",
     "GameDev/Unreal",
