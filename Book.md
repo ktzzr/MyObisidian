@@ -1,4 +1,4 @@
-```dataview
+```
 ---
 tag: 📚Book
 title: {{title}}
@@ -8,7 +8,6 @@ category: [{{category}}]
 publisher: {{publisher}}
 total: {{totalPage}}
 cover: {{coverUrl}}
-localCover: {{localCoverImage}}
 status: 
 ---
 ```
