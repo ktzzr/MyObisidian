@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WE/百鬼夜行长篇系列：涂佛之宴·宴之始末（全集）-京极夏彦.md",
+                "file": "策划知识库/Books/游戏设计艺术.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "aee7e10a3f316ce0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "策划知识库/Books/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WE/百鬼夜行长篇系列：涂佛之宴·宴之始末（全集）-京极夏彦.md",
+                "file": "策划知识库/Books/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WE/百鬼夜行长篇系列：涂佛之宴·宴之始末（全集）-京极夏彦.md",
+                "file": "策划知识库/Books/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,15 +170,16 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "5916234c2b52a6e1",
+  "active": "aee7e10a3f316ce0",
   "lastOpenFiles": [
-    "WE/游戏剧本怎么写-佐佐木智广.md",
+    "策划知识库/Books/游戏设计艺术.md",
+    "策划知识库/Books/未命名.md",
     "策划知识库/Books/1.书库索引.md",
+    "WE/游戏剧本怎么写-佐佐木智广.md",
     "WE/百鬼夜行长篇系列：涂佛之宴·宴之始末（全集）-京极夏彦.md",
     "WE/自私的基因（40周年增订精装版）-理查德·道金斯.md",
     "WE/Java从初学到精通-辛立伟 张帆等编著.md",
     "WE/Java核心技术第10版（套装共2册）-凯S.霍斯特曼 霍斯特曼 科内尔.md",
-    "策划知识库/Books/游戏设计艺术.md",
     "策划知识库/Books/游戏剧本怎么写.md",
     "策划知识库/Books/故事.md",
     "策划知识库/Books/对白.md",
@@ -175,7 +190,6 @@
     "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
     "策划知识库/Books/Panel BD-132.md",
     "Templates/CSS.md",
-    "未命名.md",
     "未命名 1",
     "策划知识库/Books/Section 123 Civilian Nuclear Cooperation Agreements - United States Congress Senate Committee on Foreign Relations.md",
     "海边的卡夫卡 - 村上春树.md",
