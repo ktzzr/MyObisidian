@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "策划知识库/Books/书库索引.md",
+                "file": "Templates/Book.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "策划知识库/Books/书库索引.md",
+                "file": "Templates/Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "策划知识库/Books/书库索引.md",
+                "file": "Templates/Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,6 @@
     "Atlas/Dataviews/LATEST.md",
     "Atlas/Dataviews/Index for 已发布文章和草稿.md",
     "Atlas/Dataviews/微信读书清单.md",
-    "Atlas/Dataviews/EXTERNAL.md",
-    "Atlas/Dataviews/Daily notes汇总.md"
+    "Atlas/Dataviews/EXTERNAL.md"
   ]
 }
