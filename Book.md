@@ -1,8 +1,8 @@
 ```dataview
 ---
 tag: 📚Book
-title: "{{title}}"
-subtitle: "{{subtitle}}"
+title: {{title}}
+subtitle: {{subtitle}}
 author: [{{author}}]
 category: [{{category}}]
 publisher: {{publisher}}
