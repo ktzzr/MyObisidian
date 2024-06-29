@@ -4,5 +4,8 @@
   "translucency": false,
   "accentColor": "",
   "baseFontSize": 19,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "Cardsview"
+  ]
 }
