@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "策划知识库/Books/Writing for Games.md",
+                "file": "策划知识库/Books/Level design processes and experiences.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "策划知识库/Books/Writing for Games.md",
+                "file": "策划知识库/Books/Level design processes and experiences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "策划知识库/Books/Writing for Games.md",
+                "file": "策划知识库/Books/Level design processes and experiences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,8 +172,9 @@
   },
   "active": "aee7e10a3f316ce0",
   "lastOpenFiles": [
-    "策划知识库/Books/Unity Shader入门精要.md",
     "策划知识库/Books/Writing for Games.md",
+    "策划知识库/Books/Level design processes and experiences.md",
+    "策划知识库/Books/Unity Shader入门精要.md",
     "策划知识库/Books/游戏剧本怎么写.md",
     "策划知识库/Books/1.书库索引.md",
     "策划知识库/策划经验总结/任务设计.md",
@@ -198,7 +199,6 @@
     "WE",
     "Templates/Book.md",
     "README.md",
-    "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
     "未命名 1",
     "Templates",
     "策划知识库/Books",
