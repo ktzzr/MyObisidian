@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "策划知识库/Books/书库索引.md",
-                "mode": "preview",
+                "file": "Templates/CSS.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "策划知识库/Books/书库索引.md",
+                "file": "Templates/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "策划知识库/Books/书库索引.md",
+                "file": "Templates/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,8 +197,9 @@
   },
   "active": "654d9ff8d2e7f453",
   "lastOpenFiles": [
-    "未命名.md",
     "策划知识库/Books/书库索引.md",
+    "Templates/CSS.md",
+    "未命名.md",
     "策划知识库/Books/Panel BD-132.md",
     "Templates/Book.md",
     "策划知识库/Books/游戏设计艺术 - Jesse Schell.md",
@@ -241,7 +242,6 @@
     "Atlas/Dataviews/∑ 本库Dataview汇总.md",
     "Atlas/About Atlas.md",
     "Atlas/Index for Atlases.md",
-    "Atlas/Dataviews/LATEST.md",
-    "Atlas/Dataviews/Index for 已发布文章和草稿.md"
+    "Atlas/Dataviews/LATEST.md"
   ]
 }
