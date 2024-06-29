@@ -178,11 +178,13 @@
       "workspaces:管理工作区布局": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
   "active": "5916234c2b52a6e1",
   "lastOpenFiles": [
+    "未命名",
     "策划知识库/策划经验总结/任务设计.md",
     "策划知识库/书库/书库索引.md",
     "README.md",
@@ -227,7 +229,6 @@
     "Atlas/Dataviews/EXTERNAL.md",
     "Atlas/Dataviews/Daily notes汇总.md",
     "Atlas/Dataviews/本库的宏观统计数据.md",
-    "Atlas/Dataviews/模板汇总.md",
-    "Atlas/MOCs/Library.md"
+    "Atlas/Dataviews/模板汇总.md"
   ]
 }
