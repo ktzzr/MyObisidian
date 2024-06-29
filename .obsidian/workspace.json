@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "策划知识库/Books/书库索引.md",
+                "file": "策划知识库/Books/Story - Robert McKee.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "策划知识库/Books/书库索引.md",
+                "file": "策划知识库/Books/Story - Robert McKee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "策划知识库/Books/书库索引.md",
+                "file": "策划知识库/Books/Story - Robert McKee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,10 +155,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "94ad6f2f67bb4f95",
+  "active": "5916234c2b52a6e1",
   "lastOpenFiles": [
-    "策划知识库/Books/游戏设计艺术.md",
     "策划知识库/Books/书库索引.md",
+    "策划知识库/Books/Story - Robert McKee.md",
+    "策划知识库/Books/游戏设计艺术.md",
     "策划知识库/策划经验总结/任务设计.md",
     "Templates/Book.md",
     "README.md",
@@ -201,7 +202,6 @@
     "PiceBed/PicBed-GameDesign/TMTD/TMTDcharacter2.png",
     "Atlas/Dataviews/∑ 本库Dataview汇总.md",
     "Atlas/About Atlas.md",
-    "Atlas/Index for Atlases.md",
-    "Atlas/Dataviews/LATEST.md"
+    "Atlas/Index for Atlases.md"
   ]
 }

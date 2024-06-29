@@ -1,0 +1,8 @@
+---
+title: Story
+subtitle: Style, Structure, Substance, and the Principles of Screenwriting
+author: [Robert McKee]
+category: [Performing Arts]
+cover: http://books.google.com/books/content?id=6y_AR8EZI54C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+status: 
+---
