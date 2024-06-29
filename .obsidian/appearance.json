@@ -5,5 +5,7 @@
   "accentColor": "",
   "baseFontSize": 19,
   "baseFontSizeAction": false,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "Cardsview"
+  ]
 }
