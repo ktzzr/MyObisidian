@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WE/百鬼夜行长篇系列：涂佛之宴·宴之始末（全集）-京极夏彦.md",
-                "mode": "preview",
+                "file": "WE/自私的基因（40周年增订精装版）-理查德·道金斯.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WE/百鬼夜行长篇系列：涂佛之宴·宴之始末（全集）-京极夏彦.md",
+                "file": "WE/自私的基因（40周年增订精装版）-理查德·道金斯.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WE/百鬼夜行长篇系列：涂佛之宴·宴之始末（全集）-京极夏彦.md",
+                "file": "WE/自私的基因（40周年增订精装版）-理查德·道金斯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,12 +156,12 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "94ad6f2f67bb4f95",
+  "active": "5916234c2b52a6e1",
   "lastOpenFiles": [
-    "WE/Java核心技术第10版（套装共2册）-凯S.霍斯特曼 霍斯特曼 科内尔.md",
-    "WE/百鬼夜行长篇系列：涂佛之宴·宴之始末（全集）-京极夏彦.md",
-    "策划知识库/Books/1.书库索引.md",
     "WE/游戏剧本怎么写-佐佐木智广.md",
+    "WE/百鬼夜行长篇系列：涂佛之宴·宴之始末（全集）-京极夏彦.md",
+    "WE/Java核心技术第10版（套装共2册）-凯S.霍斯特曼 霍斯特曼 科内尔.md",
+    "策划知识库/Books/1.书库索引.md",
     "WE/自私的基因（40周年增订精装版）-理查德·道金斯.md",
     "WE/Java从初学到精通-辛立伟 张帆等编著.md",
     "WE",
