@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "策划知识库/Books/Story - Robert McKee.md",
-                "mode": "source",
+                "file": "策划知识库/Books/1.书库索引.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "策划知识库/Books/Story - Robert McKee.md",
+                "file": "策划知识库/Books/1.书库索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "策划知识库/Books/Story - Robert McKee.md",
+                "file": "策划知识库/Books/1.书库索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,13 +155,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "5916234c2b52a6e1",
+  "active": "94ad6f2f67bb4f95",
   "lastOpenFiles": [
-    "策划知识库/Books/书库索引.md",
-    "策划知识库/Books/Story - Robert McKee.md",
+    "策划知识库/Books/故事.md",
+    "策划知识库/Books/1.书库索引.md",
     "策划知识库/Books/游戏设计艺术.md",
-    "策划知识库/策划经验总结/任务设计.md",
     "Templates/Book.md",
+    "策划知识库/策划经验总结/任务设计.md",
     "README.md",
     "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
     "策划知识库/Books/Panel BD-132.md",
