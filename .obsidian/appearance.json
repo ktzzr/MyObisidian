@@ -3,7 +3,7 @@
   "theme": "moonstone",
   "translucency": false,
   "accentColor": "",
-  "baseFontSize": 19,
+  "baseFontSize": 23,
   "baseFontSizeAction": false,
   "enabledCssSnippets": [
     "Cardsview"
