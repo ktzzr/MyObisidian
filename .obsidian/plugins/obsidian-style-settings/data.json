@@ -1,5 +1,7 @@
 {
   "minimal-advanced@@font-ui-smaller": 12,
   "minimal-style@@table-text-size": "1em",
-  "minimal-style@@row-hover": true
+  "minimal-style@@row-hover": true,
+  "minimal-advanced@@font-ui-small": 13,
+  "minimal-advanced@@cursor": "default"
 }
