@@ -1,0 +1,8 @@
+---
+title: 游戏设计艺术
+subtitle: A Book of Lenses, Third Edition
+author: [Jesse Schell]
+category: [Computers]
+cover: http://books.google.com/books/content?id=gXumDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+status: todo
+---
