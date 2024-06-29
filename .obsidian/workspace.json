@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
-                "mode": "source",
+                "file": "策划知识库/Books/书库索引.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "策划知识库/Books/书库索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "策划知识库/Books/书库索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,8 +197,8 @@
   },
   "active": "654d9ff8d2e7f453",
   "lastOpenFiles": [
-    "策划知识库/Books/书库索引.md",
     "未命名.md",
+    "策划知识库/Books/书库索引.md",
     "策划知识库/Books/Panel BD-132.md",
     "Templates/Book.md",
     "策划知识库/Books/游戏设计艺术 - Jesse Schell.md",
