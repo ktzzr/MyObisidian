@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "策划知识库/Books/1.书库索引.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -170,17 +170,18 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "aee7e10a3f316ce0",
+  "active": "5916234c2b52a6e1",
   "lastOpenFiles": [
-    "策划知识库/Books/创作的基因.md",
+    "策划知识库/Books/Unity Shader入门精要.md",
+    "策划知识库/策划经验总结/任务设计.md",
     "策划知识库/Books/1.书库索引.md",
+    "策划知识库/Books/游戏设计艺术.md",
+    "策划知识库/Books/创作的基因.md",
     "策划知识库/Books/岩田先生.md",
     "策划知识库/Books/妙趣横生的游戏制作之旅.md",
     "策划知识库/Books/游戏感.md",
     "策划知识库/Books/体验引擎.md",
-    "策划知识库/Books/游戏设计艺术.md",
     "策划知识库/Books/游戏设计梦工厂.md",
-    "策划知识库/Books/Unity Shader入门精要.md",
     "策划知识库/Books/通关!游戏设计之道.md",
     "策划知识库/Books/游戏编程模式.md",
     "策划知识库/Books/游戏设计的236个技巧.md",
@@ -195,7 +196,6 @@
     "WE/Java核心技术第10版（套装共2册）-凯S.霍斯特曼 霍斯特曼 科内尔.md",
     "WE",
     "Templates/Book.md",
-    "策划知识库/策划经验总结/任务设计.md",
     "README.md",
     "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
     "策划知识库/Books/Panel BD-132.md",
