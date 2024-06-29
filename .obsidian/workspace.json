@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,11 +151,15 @@
       "zk-prefixer:创建时间戳笔记": false,
       "workspaces:管理工作区布局": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "5916234c2b52a6e1",
   "lastOpenFiles": [
+    "ACCESS 笔记组织法.md",
+    "README.md",
+    "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
     "Atlas/TOCs/§ TOCs.md",
     "Extras/Draws/数字时代如何更好地工作与生活 - 图.svg",
     "Extras/Draws/excalibrain.svg",
@@ -166,7 +170,6 @@
     "Extras/Media/Pasted Image 20220320190917_764.png",
     "Extras/Media/Pasted Image 20220320190802_762.png",
     "Extras/Index for Extras.md",
-    "ACCESS 笔记组织法.md",
     "Atlas/MOCs/∑ MOCs.md",
     "Atlas/Dataviews/MOC文件汇总.md",
     "Atlas/Dataviews/» 本库常用的dataview工作流.md",
@@ -177,9 +180,7 @@
     "ManageObisidian-GameDesign/TMTDboss2.png",
     "ManageObisidian-GameDesign/TMTDcharacter1.png",
     "ManageObisidian-GameDesign/TMTDcharacter2.png",
-    "README.md",
     "Atlas/Dataviews/∑ 本库Dataview汇总.md",
-    "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
     "Atlas/About Atlas.md",
     "Atlas/Index for Atlases.md",
     "Atlas/Dataviews/LATEST.md",
