@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "策划知识库/Books/1.书库索引.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -157,9 +157,10 @@
   },
   "active": "94ad6f2f67bb4f95",
   "lastOpenFiles": [
-    "策划知识库/Books/故事.md",
-    "策划知识库/Books/1.书库索引.md",
     "策划知识库/Books/游戏设计艺术.md",
+    "策划知识库/Books/故事.md",
+    "策划知识库/Books/对白.md",
+    "策划知识库/Books/1.书库索引.md",
     "Templates/Book.md",
     "策划知识库/策划经验总结/任务设计.md",
     "README.md",
@@ -201,7 +202,6 @@
     "PiceBed/PicBed-GameDesign/TMTD/TMTDcharacter1.png",
     "PiceBed/PicBed-GameDesign/TMTD/TMTDcharacter2.png",
     "Atlas/Dataviews/∑ 本库Dataview汇总.md",
-    "Atlas/About Atlas.md",
-    "Atlas/Index for Atlases.md"
+    "Atlas/About Atlas.md"
   ]
 }
