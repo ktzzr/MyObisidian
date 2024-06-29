@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "策划知识库/Books/游戏编程模式.md",
+                "file": "策划知识库/Books/通关!游戏设计之道.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "策划知识库/Books/游戏编程模式.md",
+                "file": "策划知识库/Books/通关!游戏设计之道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "策划知识库/Books/游戏编程模式.md",
+                "file": "策划知识库/Books/通关!游戏设计之道.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,10 +172,11 @@
   },
   "active": "aee7e10a3f316ce0",
   "lastOpenFiles": [
-    "策划知识库/Books/游戏设计的236个技巧.md",
-    "策划知识库/Books/游戏编程模式.md",
-    "策划知识库/Books/1.书库索引.md",
     "策划知识库/Books/岩田先生.md",
+    "策划知识库/Books/通关!游戏设计之道.md",
+    "策划知识库/Books/1.书库索引.md",
+    "策划知识库/Books/游戏编程模式.md",
+    "策划知识库/Books/游戏设计的236个技巧.md",
     "策划知识库/Books/Unity Shader入门精要.md",
     "策划知识库/Books/游戏设计艺术.md",
     "策划知识库/Books/游戏剧本怎么写.md",
@@ -210,7 +211,6 @@
     "Atlas/TOCs/§ TOCs.md",
     "Extras/Draws/数字时代如何更好地工作与生活 - 图.svg",
     "Extras/Draws/excalibrain.svg",
-    "Extras/Draws/数字时代如何更好地工作与生活 - 图.md",
     "Extras/Media/Pasted Image 20220320202845_759.png",
     "Extras/Media/Pasted Image 20220320191818_566.png",
     "Extras/Media/Pasted Image 20220320190917_764.png",
