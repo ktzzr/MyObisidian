@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "策划知识库/Books/未命名.md",
+                "file": "策划知识库/Books/Unity Shader入门精要 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "策划知识库/Books/未命名.md",
+                "file": "策划知识库/Books/Unity Shader入门精要 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "策划知识库/Books/未命名.md",
+                "file": "策划知识库/Books/Unity Shader入门精要 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,17 +172,18 @@
   },
   "active": "aee7e10a3f316ce0",
   "lastOpenFiles": [
+    "策划知识库/Books/Unity Shader入门精要.md",
+    "策划知识库/Books/Unity Shader入门精要 1.md",
     "策划知识库/Books/游戏设计艺术.md",
-    "策划知识库/Books/未命名.md",
     "策划知识库/Books/1.书库索引.md",
+    "策划知识库/Books/对白.md",
+    "策划知识库/Books/故事.md",
     "WE/游戏剧本怎么写-佐佐木智广.md",
     "WE/百鬼夜行长篇系列：涂佛之宴·宴之始末（全集）-京极夏彦.md",
     "WE/自私的基因（40周年增订精装版）-理查德·道金斯.md",
     "WE/Java从初学到精通-辛立伟 张帆等编著.md",
     "WE/Java核心技术第10版（套装共2册）-凯S.霍斯特曼 霍斯特曼 科内尔.md",
     "策划知识库/Books/游戏剧本怎么写.md",
-    "策划知识库/Books/故事.md",
-    "策划知识库/Books/对白.md",
     "WE",
     "Templates/Book.md",
     "策划知识库/策划经验总结/任务设计.md",
@@ -214,7 +215,6 @@
     "Extras/Media/Pasted Image 20220320190802_762.png",
     "Extras/Index for Extras.md",
     "Atlas/MOCs/∑ MOCs.md",
-    "Atlas/Dataviews/MOC文件汇总.md",
     "PiceBed/PicBed-GameDesign/TMTD/TMTDboss2.png",
     "PiceBed/PicBed-GameDesign/TMTD/TMTDcharacter1.png",
     "PiceBed/PicBed-GameDesign/TMTD/TMTDcharacter2.png"
