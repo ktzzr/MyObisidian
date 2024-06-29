@@ -8,6 +8,6 @@ category: [{{category}}]
 publisher: {{publisher}}
 total: {{totalPage}}
 cover: {{coverUrl}}
-status: 
+status: complete
 ---
 ```
