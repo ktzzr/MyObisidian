@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "策划知识库/Books/岩田先生.md",
+                "file": "策划知识库/Books/岩田先生 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "策划知识库/Books/岩田先生.md",
+                "file": "策划知识库/Books/岩田先生 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "策划知识库/Books/岩田先生.md",
+                "file": "策划知识库/Books/岩田先生 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,10 +172,11 @@
   },
   "active": "aee7e10a3f316ce0",
   "lastOpenFiles": [
-    "策划知识库/Books/Unity Shader入门精要.md",
     "策划知识库/Books/岩田先生.md",
+    "策划知识库/Books/岩田先生 1.md",
     "策划知识库/Books/1.书库索引.md",
     "策划知识库/Books/大师谈游戏设计.md",
+    "策划知识库/Books/Unity Shader入门精要.md",
     "策划知识库/Books/游戏剧本怎么写.md",
     "策划知识库/Books/故事.md",
     "策划知识库/Books/对白.md",
@@ -214,7 +215,6 @@
     "Extras/Media/Pasted Image 20220320191818_566.png",
     "Extras/Media/Pasted Image 20220320190917_764.png",
     "Extras/Media/Pasted Image 20220320190802_762.png",
-    "Extras/Index for Extras.md",
     "PiceBed/PicBed-GameDesign/TMTD/TMTDboss2.png",
     "PiceBed/PicBed-GameDesign/TMTD/TMTDcharacter1.png",
     "PiceBed/PicBed-GameDesign/TMTD/TMTDcharacter2.png"
