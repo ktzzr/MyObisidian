@@ -11,8 +11,13 @@
             "id": "94ad6f2f67bb4f95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "策划知识库/Books/书库索引.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -89,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "策划知识库/策划经验总结/任务设计.md",
+                "file": "策划知识库/Books/书库索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "策划知识库/策划经验总结/任务设计.md",
+                "file": "策划知识库/Books/书库索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,12 +155,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "5916234c2b52a6e1",
+  "active": "94ad6f2f67bb4f95",
   "lastOpenFiles": [
+    "策划知识库/Books/游戏设计艺术.md",
+    "策划知识库/Books/书库索引.md",
+    "策划知识库/策划经验总结/任务设计.md",
     "Templates/Book.md",
     "README.md",
-    "策划知识库/Books/书库索引.md",
-    "策划知识库/Books/游戏设计艺术.md",
     "游戏拆解和测评/2022518-Ten Minutes Till Dawn.md",
     "策划知识库/Books/Panel BD-132.md",
     "Templates/CSS.md",
@@ -163,7 +169,6 @@
     "未命名 1",
     "策划知识库/Books/Section 123 Civilian Nuclear Cooperation Agreements - United States Congress Senate Committee on Foreign Relations.md",
     "海边的卡夫卡 - 村上春树.md",
-    "策划知识库/策划经验总结/任务设计.md",
     "未命名",
     "Templates",
     "策划知识库/Books",
