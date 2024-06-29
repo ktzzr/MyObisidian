@@ -155,7 +155,7 @@ body {
       white-space: nowrap;
       overflow: hidden; /*长度超出省略*/
       text-align: center; /*文字居中*/
-      font-size: var(--font-ui-smaller); /*文字大小*/
+      font-size: 2rem; /*文字大小*/
     }
     & > td:first-child img {border-radius: 0; /*削除图片圆角*/}
     & > td:has(> span > progress) {
