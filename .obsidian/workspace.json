@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "策划知识库/Books/游戏编程模式.md",
+                "file": "策划知识库/Books/1.书库索引.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "策划知识库/Books/游戏编程模式.md",
+                "file": "策划知识库/Books/1.书库索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "策划知识库/Books/游戏编程模式.md",
+                "file": "策划知识库/Books/1.书库索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,6 +172,16 @@
   },
   "active": "aee7e10a3f316ce0",
   "lastOpenFiles": [
+    "策划知识库/Books/创作的基因.md",
+    "策划知识库/Books/Writing for Games.md",
+    "策划知识库/Books/Unity Shader入门精要.md",
+    "策划知识库/Books/Architectural Approach to Level Design.md",
+    "策划知识库/Books/游戏设计艺术.md",
+    "策划知识库/Books/游戏设计梦工厂.md",
+    "策划知识库/Books/游戏设计的236个技巧.md",
+    "策划知识库/Books/游戏剧本怎么写.md",
+    "策划知识库/Books/游戏感.md",
+    "策划知识库/Books/游戏编程模式.md",
     "策划知识库/Books/岩田先生.md",
     "策划知识库/Books/通关!游戏设计之道.md",
     "策划知识库/Books/体验引擎.md",
@@ -179,18 +189,8 @@
     "策划知识库/Books/故事.md",
     "策划知识库/Books/对白.md",
     "策划知识库/Books/大师谈游戏设计.md",
-    "策划知识库/Books/创作的基因.md",
     "策划知识库/Books/1.书库索引.md",
-    "策划知识库/Books/Architectural Approach to Level Design.md",
-    "策划知识库/Books/Writing for Games.md",
-    "策划知识库/Books/Unity Shader入门精要.md",
-    "策划知识库/Books/游戏剧本怎么写.md",
     "策划知识库/策划经验总结/任务设计.md",
-    "策划知识库/Books/游戏设计艺术.md",
-    "策划知识库/Books/游戏感.md",
-    "策划知识库/Books/游戏设计梦工厂.md",
-    "策划知识库/Books/游戏编程模式.md",
-    "策划知识库/Books/游戏设计的236个技巧.md",
     "WE/游戏剧本怎么写-佐佐木智广.md",
     "WE/百鬼夜行长篇系列：涂佛之宴·宴之始末（全集）-京极夏彦.md",
     "WE/自私的基因（40周年增订精装版）-理查德·道金斯.md",
