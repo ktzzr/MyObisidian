@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "策划知识库/Books/Arcade Game Typography - Toshi Omigari.md",
-                "mode": "source",
+                "file": "策划知识库/Books/街机游戏字体.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "策划知识库/Books/Arcade Game Typography - Toshi Omigari.md",
+                "file": "策划知识库/Books/街机游戏字体.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "策划知识库/Books/Arcade Game Typography - Toshi Omigari.md",
+                "file": "策划知识库/Books/街机游戏字体.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
     "策划知识库/Books/Writing for Games.md",
     "策划知识库/Books/游戏编程模式.md",
     "策划知识库/Books/1.书库索引.md",
-    "策划知识库/Books/Arcade Game Typography - Toshi Omigari.md",
+    "策划知识库/Books/街机游戏字体.md",
     "策划知识库/Books/游戏设计艺术.md",
     "策划知识库/Books/游戏感.md",
     "策划知识库/Books/通关!游戏设计之道.md",
